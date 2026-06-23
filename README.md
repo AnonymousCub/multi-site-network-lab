@@ -67,19 +67,14 @@ Dynamic routing table updates verified
 -Evidence of Configuration-
 VLANs
 
-(Insert VLAN verification screenshot: show vlan brief)
-
-Trunk Links
-
-(Insert show interfaces trunk screenshot)
-
-Routing Table
-
-(Insert show ip route screenshot)
+![Screenshots](S1-VLAN-Brief.png)
+![Screenshots](S2-VLAN-Brief.png)
+![Screenshots](S3-VLAN-Brief.png)
+![Screenshots](S4/VLAN-Brief.png)
 
 OSPF Neighbor Status
 
-(Insert show ip ospf neighbor screenshot)
+![Screenshots](OSPF-Neighbor.png)
 
 DHCP Leases
 
