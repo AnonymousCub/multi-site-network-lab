@@ -17,7 +17,7 @@ VLAN-based segmentation per site
 WAN link between routers using a /30 subnet
 
 Topology Diagram:
-(![Network Topology](Network-Diagram.png))
+![Network Topology](Network-Diagram.png)
 
 -IP Addressing Scheme-
 Site 1
