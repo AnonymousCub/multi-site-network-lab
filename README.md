@@ -67,7 +67,7 @@ Dynamic routing table updates verified
 -Evidence of Configuration-
 VLANs
 
-![Screenshots](S1-VLAN-Brief.png)
+![S1 VLAN Brief](Screenshots/S1-VLAN-Brief.png)
 ![Screenshots](S2-VLAN-Brief.png)
 ![Screenshots](S3-VLAN-Brief.png)
 ![Screenshots](S4/VLAN-Brief.png)
