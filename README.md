@@ -92,11 +92,3 @@ OSPF Neighbor
 
 ![OSPF Neighbor](Screenshots/OSPF-Neighbor.png)
 
-
-DHCP Leases
-
-(Insert show ip dhcp binding screenshot)
-
-Connectivity Tests
-
-(Insert ping test screenshots across sites)
