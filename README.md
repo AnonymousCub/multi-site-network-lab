@@ -65,16 +65,33 @@ OSPF neighbor adjacency established
 Dynamic routing table updates verified
 
 -Evidence of Configuration-
-VLANs
 
+VLAN Verification
+
+S1
 ![S1 VLAN Brief](Screenshots/S1-VLAN-Brief.png)
-![Screenshots](S2-VLAN-Brief.png)
-![Screenshots](S3-VLAN-Brief.png)
-![Screenshots](S4/VLAN-Brief.png)
 
-OSPF Neighbor Status
+S2
+![S2 VLAN Brief](Screenshots/S2-VLAN-Brief.png)
 
-![Screenshots](OSPF-Neighbor.png)
+S3
+![S3 VLAN Brief](Screenshots/S3-VLAN-Brief.png)
+
+S4
+![S4 VLAN Brief](Screenshots/S4-VLAN-Brief.png)
+
+Router Interfaces
+
+R1
+![R1 Interfaces](Screenshots/R1-Interfaces.png)
+
+R2
+![R2 Interfaces](Screenshots/R2-Interfaces.png)
+
+OSPF Neighbor
+
+![OSPF Neighbor](Screenshots/OSPF-Neighbor.png)
+
 
 DHCP Leases
 
